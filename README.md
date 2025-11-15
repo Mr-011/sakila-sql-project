@@ -13,3 +13,5 @@ This project contains SQL queries analyzing the Sakila movie rental database usi
 ## Tools
 - MySQL Workbench  
 - SQL
+
+_Completed by Nawaf on November 2025_
