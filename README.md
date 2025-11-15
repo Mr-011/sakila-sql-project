@@ -14,4 +14,6 @@ This project contains SQL queries analyzing the Sakila movie rental database usi
 - MySQL Workbench  
 - SQL
 
+  
+You can find all SQL queries in the file [sakila_project.sql](sakila_project.sql).
 _Completed by Nawaf on November 2025_
